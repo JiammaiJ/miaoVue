@@ -1,5 +1,6 @@
 //解决跨域问题 ，数据反向代理 
 module.exports = {
+    publicPath:'./',
     devServer: {
         // 代理
         proxy: {

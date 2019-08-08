@@ -6,3 +6,7 @@
 电影详情	get	http://39.97.33.178/api/detailmovie?movieId=345808
 影院	get	http://39.97.33.178/api/cinemaList?cityId=10
 城市定位	get	http://39.97.33.178/api/getLocation
+
+
+
+1111111
